@@ -102,8 +102,7 @@ country_event = {
 			name = dig_prod
 			duration = -1
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = 0.025 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = 0.05 } } }
+		capital_scope = { change_variable = { cons_prog = 0.025 } }
 	}
 	
 	option = {
@@ -149,8 +148,7 @@ country_event = {
 			chance = 30
 			add_stability_or_adm_power = yes
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = -0.025 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = -0.05 } } }
+		capital_scope = { change_variable = { cons_prog = -0.025 } }
 	}
 	
 	option = {
@@ -205,8 +203,7 @@ country_event = {
 			name = dig_manpower
 			duration = -1
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = 0.025 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = 0.05 } } }
+		capital_scope = { change_variable = { cons_prog = 0.025 } }
 	}
 	
 	option = {
@@ -260,8 +257,7 @@ country_event = {
 			set_country_flag = dig_through
 			clr_country_flag = not_dig_through
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = 0.075 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = 0.15 } } }
+		capital_scope = { change_variable = { cons_prog = 0.075 } }
 	}
 	#Make detour
 	option = {
@@ -273,8 +269,7 @@ country_event = {
 			set_country_flag = not_dig_through
 			clr_country_flag = dig_through
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = -0.075 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = -0.15 } } }
+		capital_scope = { change_variable = { cons_prog = -0.075 } }
 	}
 }
 
@@ -322,8 +317,7 @@ country_event = {
 			set_country_flag = dig_through
 			clr_country_flag = not_dig_through
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = 0.075 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = 0.15 } } }
+		capital_scope = { change_variable = { cons_prog = 0.075 } }
 	}
 	#Make detour
 	option = {
@@ -335,8 +329,7 @@ country_event = {
 			set_country_flag = not_dig_through
 			clr_country_flag = dig_through
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = -0.075 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = -0.15 } } }
+		capital_scope = { change_variable = { cons_prog = -0.075 } }
 	}
 }
 
@@ -382,8 +375,7 @@ country_event = {
 			set_country_flag = dig_through
 			clr_country_flag = not_dig_through
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = 0.075 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = 0.15 } } }
+		capital_scope = { change_variable = { cons_prog = 0.075 } }
 	}
 	#Make detour
 	option = {
@@ -395,8 +387,7 @@ country_event = {
 			set_country_flag = not_dig_through
 			clr_country_flag = dig_through
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = -0.075 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = -0.15 } } }
+		capital_scope = { change_variable = { cons_prog = -0.075 } }
 	}
 }
 
@@ -441,8 +432,7 @@ country_event = {
 			set_country_flag = dig_through
 			clr_country_flag = not_dig_through
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = 0.075 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = 0.15 } } }
+		capital_scope = { change_variable = { cons_prog = 0.075 } }
 	}
 	#Make detour
 	option = {
@@ -454,8 +444,7 @@ country_event = {
 			set_country_flag = not_dig_through
 			clr_country_flag = dig_through
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = -0.075 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = -0.15 } } }
+		capital_scope = { change_variable = { cons_prog = -0.075 } }
 	}
 }
 
@@ -499,8 +488,7 @@ country_event = {
 			set_country_flag = dig_through
 			clr_country_flag = not_dig_through
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = 0.075 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = 0.15 } } }
+		capital_scope = { change_variable = { cons_prog = 0.075 } }
 	}
 	#Make detour
 	option = {
@@ -512,8 +500,7 @@ country_event = {
 			set_country_flag = not_dig_through
 			clr_country_flag = dig_through
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = -0.075 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = -0.15 } } }
+		capital_scope = { change_variable = { cons_prog = -0.075 } }
 	}
 }
 
@@ -557,8 +544,7 @@ country_event = {
 			set_country_flag = dig_through
 			clr_country_flag = not_dig_through
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = 0.075 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = 0.15 } } }
+		capital_scope = { change_variable = { cons_prog = 0.075 } }
 	}
 	#Make detour
 	option = {
@@ -570,8 +556,7 @@ country_event = {
 			set_country_flag = not_dig_through
 			clr_country_flag = dig_through
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = -0.075 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = -0.15 } } }
+		capital_scope = { change_variable = { cons_prog = -0.075 } }
 	}
 }
 
@@ -610,8 +595,7 @@ country_event = {
 			name = dig_explosive
 			duration = -1
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = 0.05 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = 0.1 } } }
+		capital_scope = { change_variable = { cons_prog = 0.05 } }
 	}
 	
 	option = {
@@ -776,8 +760,7 @@ country_event = {
 				add_base_tax = -1
 			}
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = -0.1 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = -0.2 } } }
+		capital_scope = { change_variable = { cons_prog = -0.1 } }
 	}
 }
 ##Lead to Goblin Tide disaster, found treasure
@@ -976,8 +959,7 @@ country_event = {
 				add_base_production = -1
 			}
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = -0.05 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = -0.1 } } }
+		capital_scope = { change_variable = { cons_prog = -0.05 } }
 	}
 }
 ##Easily diggable rock
@@ -1012,8 +994,7 @@ country_event = {
 				duration = 1800
 			}
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = 0.025 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = 0.05 } } }
+		capital_scope = { change_variable = { cons_prog = 0.025 } }
 	}
 }
 
@@ -1054,8 +1035,7 @@ country_event = {
 				duration = 1800
 			}
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = -0.025 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = -0.05 } } }
+		capital_scope = { change_variable = { cons_prog = -0.025 } }
 	}
 }
 
@@ -1246,8 +1226,7 @@ country_event = {
 				}
 			}
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = -0.25 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = -0.5 } } }
+		capital_scope = { change_variable = { cons_prog = -0.25 } }
 	}
 }
 
@@ -1499,8 +1478,7 @@ country_event = {
 			30 = { }
 			60 = { reduce_stability_or_adm_power = yes }
 		}
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = -0.075 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = -0.15 } } }
+		capital_scope = { change_variable = { cons_prog = -0.075 } }
 	}
 }
 ###Hold Specialization
@@ -1837,8 +1815,7 @@ country_event = {
 			remove_province_modifier = hold_farm_2
 			remove_province_modifier = hold_military_2
 			hidden_effect = { clr_province_flag = specialized_hold }
-			hidden_effect = { change_variable = { cons_prog = -0.125 } }
-			tooltip = { change_variable = { cons_prog = -0.25 } }
+			change_variable = { cons_prog = -0.125 }
 		}
 	}
 	
@@ -1847,8 +1824,7 @@ country_event = {
         ai_chance = { factor = 10 }
 		add_stability = 2
 		capital_scope = {
-			hidden_effect = { change_variable = { cons_prog = -0.125 } }
-			tooltip = { change_variable = { cons_prog = -0.25 } }
+			change_variable = { cons_prog = -0.125 }
 			change_trade_goods = unknown
 		}
 	}
@@ -5256,11 +5232,11 @@ country_event = {
 	
 	trigger = {
 		AND = {
-			OR = {
-				has_reform = adventurer_reform
-				has_reform = dwarovar_warband
-				has_reform = roaming_horde
-			}
+		OR = {
+			has_reform = adventurer_reform
+			has_reform = dwarovar_warband
+			has_reform = roaming_horde
+		}
 			OR = {
 				if = {
 					limit = {
@@ -5272,27 +5248,27 @@ country_event = {
 					num_of_cities = 3 # give the player a buffer for purging warbands	
 				}
 				capital_scope = { #stop migrating if you have a hold
-					continent = serpentspine
-					OR = {
-						has_terrain = dwarven_hold
-						has_terrain = dwarven_hold_surface
-					}
-				}
+			continent = serpentspine
+			OR = {
+				has_terrain = dwarven_hold
+				has_terrain = dwarven_hold_surface
+			}
+		}
 			}
 		}
 	}
 	
 	option = {
         name = diggy.109.a
-		ai_chance = { factor = 100 }
+        ai_chance = { factor = 100 }
 		if = { #ai stop migrate
 			limit = {
 				ai = yes
 			}
-			add_country_modifier = {
-				name = diggy_stop_migrate
-				duration = -1
-			}
+		add_country_modifier = {
+			name = diggy_stop_migrate
+			duration = -1
+		}
 			remove_country_modifier = dont_colonize_but_migrate #might as well remove this for a tag switching player but eh
 			if = {
 				limit = {
@@ -5494,8 +5470,9 @@ country_event = {
 	option = {
         name = diggy.1.a
         ai_chance = { factor = 100 }
-		hidden_effect = { capital_scope = { change_variable = { cons_prog = 0.5 } } }
-		tooltip = { capital_scope = { change_variable = { cons_prog = 1 } } }
+		capital_scope = { 
+			change_variable = { cons_prog = 0.5 }
+		}
 	}
 	
 	option = {

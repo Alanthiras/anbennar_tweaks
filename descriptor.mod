@@ -13,7 +13,7 @@ tags={
 	"Expansion"
 	"Gameplay"
 }
-name="Anbennar: A Fantasy Total Conversion Mod"
+name="anbennar_tweaks"
 picture="thumbnail.png"
 replace_path="common/bookmarks"
 replace_path="common/province_names"
